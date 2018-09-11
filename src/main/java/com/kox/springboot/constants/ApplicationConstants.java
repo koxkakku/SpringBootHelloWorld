@@ -9,4 +9,6 @@ public class ApplicationConstants {
 	public static final String SUCCESS = "success";
 	public static final String FAILURE = "failure";
 	public static final String GUEST = "Guest";
+	public static final String ERROR_CODE_01 = "01";
+	
 }
